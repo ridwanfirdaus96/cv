@@ -1,0 +1,61 @@
+/* Front-End Web Development */
+
+https://www.appbrewery.co/p/web-development-course-resources/
+google ip : http://216.58.210.46
+https://techcrunch.com/
+www.meetup.com
+
+/* Introduction to HTML
+
+Angular brackets
+heading html mdn
+https://devdocs.io/
+
+/* The Anatomy of an HTML Tag */
+
+Start tag<> --> Content --> End Tag</>
+<br> --> Self-closing tag
+<hr size="3" noshade> --> HTML element <hr> and HTML Attribute <size="3">
+
+/* What is The HTML Boilerplate? */
+
+Learn about meta charset
+
+/* How to Structure Text in HTML */
+
+html -> head -> body -> close tag html
+em tag
+
+/* HTML List */
+
+/* HTML Image Elements */
+
+<img src="">
+
+Photobucket
+
+/* HTML Links and Anchor Tags */
+
+The Wiki Game
+a download href="" download
+Dash
+
+/* HTML Tables */
+
+http://www.pascalvangemert.nl/
+
+<tr> = Tables row
+<td> = Tables data
+<th> = Tables head
+<tbody> = Tables body
+<tfoot> = Tables foot
+
+css only fixed table headers
+
+/* HTML Forms */
+
+list input type
+
+/* Forms in Practice - Create a Contact Me Form */
+
+<form class="" action="mailto:unikom@info.com" method="post">
